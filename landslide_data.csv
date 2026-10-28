@@ -1,0 +1,401 @@
+Event ID,Tanggal,Wilayah,Latitude,Longitude,Tipe Longsor,Kemiringan Lereng (deg),Curah Hujan (mm),Volume Material (m3),Tingkat Risiko,Korban Jiwa
+LS-2024-0001,2023-05-07,Jawa Timur - Malang & Lumajang,-7.8197,113.0124,Slide (Gelinciran),35.1,80.0,1022,Sedang,0
+LS-2024-0002,2024-06-02,Jawa Tengah - Banjarnegara & Wonosobo,-7.4918,109.888,Debris Flow (Aliran Bahan Rombakan),23.2,105.0,644,Rendah,0
+LS-2024-0003,2025-03-12,Sumatra - Sesar Semangko,3.5743,96.1996,Debris Flow (Aliran Bahan Rombakan),38.1,227.7,171,Tinggi,4
+LS-2024-0004,2024-02-26,Sumatra - Sesar Semangko,2.1952,97.8467,Slide (Gelinciran),28.7,79.3,1829,Rendah,0
+LS-2024-0005,2023-04-18,Sulawesi - Luwu & Toraja,-2.6668,119.9214,Debris Flow (Aliran Bahan Rombakan),44.8,143.5,1201,Sedang,0
+LS-2024-0006,2024-04-14,Jawa Barat - Sukabumi & Cianjur,-6.6574,107.4576,Debris Flow (Aliran Bahan Rombakan),47.7,148.0,1367,Tinggi,7
+LS-2024-0007,2023-08-26,Sulawesi - Luwu & Toraja,-3.1113,119.9899,Slide (Gelinciran),58.4,232.1,584,Sangat Tinggi,0
+LS-2024-0008,2025-11-19,Sumatra - Sesar Semangko,4.9607,97.3167,Slide (Gelinciran),46.8,268.7,2312,Sangat Tinggi,6
+LS-2024-0009,2024-01-16,Jawa Barat - Sukabumi & Cianjur,-7.1189,107.4042,Debris Flow (Aliran Bahan Rombakan),31.7,250.7,1744,Tinggi,5
+LS-2024-0010,2025-03-01,Jawa Tengah - Banjarnegara & Wonosobo,-7.2755,109.6532,Slide (Gelinciran),47.5,120.8,543,Sedang,0
+LS-2024-0011,2025-07-17,Jawa Barat - Sukabumi & Cianjur,-7.1822,106.8755,Slide (Gelinciran),29.1,202.6,3671,Sedang,0
+LS-2024-0012,2025-11-19,Jawa Tengah - Banjarnegara & Wonosobo,-7.4188,109.8771,Debris Flow (Aliran Bahan Rombakan),22.3,328.9,2576,Tinggi,5
+LS-2024-0013,2024-11-26,Jawa Timur - Malang & Lumajang,-7.8785,112.6306,Slide (Gelinciran),20.5,156.9,3659,Sedang,0
+LS-2024-0014,2025-06-08,Sumatra - Sesar Semangko,4.454,97.5822,Slide (Gelinciran),39.0,195.4,1868,Tinggi,7
+LS-2024-0015,2023-04-17,Jawa Tengah - Banjarnegara & Wonosobo,-7.3707,109.7075,Debris Flow (Aliran Bahan Rombakan),17.9,126.2,525,Rendah,0
+LS-2024-0016,2023-02-02,Sulawesi - Luwu & Toraja,-3.2152,119.8258,Debris Flow (Aliran Bahan Rombakan),33.5,59.9,734,Rendah,0
+LS-2024-0017,2025-04-23,Sulawesi - Luwu & Toraja,-3.0105,120.49,Slide (Gelinciran),49.3,121.3,2054,Sedang,0
+LS-2024-0018,2023-12-27,Jawa Tengah - Banjarnegara & Wonosobo,-7.1734,109.8193,Debris Flow (Aliran Bahan Rombakan),23.4,62.2,1440,Rendah,2
+LS-2024-0019,2023-01-08,Jawa Tengah - Banjarnegara & Wonosobo,-7.3605,109.5385,Slide (Gelinciran),32.4,331.0,321,Sangat Tinggi,8
+LS-2024-0020,2025-07-28,Jawa Barat - Sukabumi & Cianjur,-6.5527,107.4141,Slide (Gelinciran),22.9,344.7,1190,Tinggi,0
+LS-2024-0021,2025-09-09,Jawa Timur - Malang & Lumajang,-7.9767,113.1178,Rockfall (Guguran Batu),30.7,267.8,3511,Tinggi,7
+LS-2024-0022,2024-08-20,Sumatra - Sesar Semangko,3.9261,95.2524,Creep (Rayapan Tanah),41.1,161.7,4323,Tinggi,1
+LS-2024-0023,2023-09-04,Jawa Barat - Sukabumi & Cianjur,-6.8601,107.1139,Debris Flow (Aliran Bahan Rombakan),47.0,121.2,690,Sedang,0
+LS-2024-0024,2025-03-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.237,109.7273,Slide (Gelinciran),26.9,123.2,5518,Sedang,0
+LS-2024-0025,2023-12-15,Jawa Tengah - Banjarnegara & Wonosobo,-7.3262,109.64,Slide (Gelinciran),37.2,108.6,2022,Sedang,0
+LS-2024-0026,2024-05-06,Sumatra - Sesar Semangko,4.9837,96.4098,Slide (Gelinciran),31.7,54.6,4053,Rendah,0
+LS-2024-0027,2023-05-23,Jawa Tengah - Banjarnegara & Wonosobo,-7.1079,109.5301,Slide (Gelinciran),27.1,195.6,799,Sedang,0
+LS-2024-0028,2025-06-23,Jawa Tengah - Banjarnegara & Wonosobo,-7.272,109.5389,Debris Flow (Aliran Bahan Rombakan),21.3,205.5,3247,Sedang,0
+LS-2024-0029,2024-07-26,Jawa Tengah - Banjarnegara & Wonosobo,-7.2164,109.7211,Debris Flow (Aliran Bahan Rombakan),51.5,310.1,3766,Sangat Tinggi,8
+LS-2024-0030,2024-12-19,Jawa Timur - Malang & Lumajang,-7.8807,112.955,Debris Flow (Aliran Bahan Rombakan),30.2,162.7,248,Sedang,8
+LS-2024-0031,2024-10-22,Jawa Barat - Sukabumi & Cianjur,-6.8201,107.0006,Debris Flow (Aliran Bahan Rombakan),26.3,61.7,642,Rendah,0
+LS-2024-0032,2025-04-06,Sulawesi - Luwu & Toraja,-3.2285,120.4757,Debris Flow (Aliran Bahan Rombakan),17.3,209.4,1266,Sedang,0
+LS-2024-0033,2025-01-24,Sulawesi - Luwu & Toraja,-2.5305,120.3002,Slide (Gelinciran),27.2,181.7,222,Sedang,0
+LS-2024-0034,2024-01-15,Sumatra - Sesar Semangko,4.0655,95.1746,Debris Flow (Aliran Bahan Rombakan),26.3,214.8,1980,Sedang,0
+LS-2024-0035,2024-07-03,Sulawesi - Luwu & Toraja,-2.7621,120.188,Slide (Gelinciran),26.1,156.8,2227,Sedang,0
+LS-2024-0036,2024-04-05,Sulawesi - Luwu & Toraja,-3.4058,120.018,Debris Flow (Aliran Bahan Rombakan),36.3,79.4,1114,Sedang,0
+LS-2024-0037,2023-04-02,Sulawesi - Luwu & Toraja,-3.1015,120.2311,Debris Flow (Aliran Bahan Rombakan),26.7,54.6,4164,Rendah,0
+LS-2024-0038,2025-02-17,Sulawesi - Luwu & Toraja,-3.3371,119.8494,Debris Flow (Aliran Bahan Rombakan),54.0,240.9,2521,Sangat Tinggi,2
+LS-2024-0039,2025-05-12,Jawa Timur - Malang & Lumajang,-8.1486,113.0678,Slide (Gelinciran),32.4,338.4,3636,Sangat Tinggi,11
+LS-2024-0040,2025-01-26,Jawa Barat - Sukabumi & Cianjur,-7.1727,107.2328,Rockfall (Guguran Batu),29.4,303.5,135,Tinggi,8
+LS-2024-0041,2025-08-04,Jawa Timur - Malang & Lumajang,-7.9228,112.7438,Slide (Gelinciran),33.8,340.3,1291,Sangat Tinggi,7
+LS-2024-0042,2024-01-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.1038,109.665,Slide (Gelinciran),41.1,310.1,1337,Sangat Tinggi,6
+LS-2024-0043,2024-01-17,Sulawesi - Luwu & Toraja,-2.7601,119.9668,Rockfall (Guguran Batu),37.7,297.9,678,Sangat Tinggi,0
+LS-2024-0044,2023-07-28,Jawa Timur - Malang & Lumajang,-8.1957,113.1338,Debris Flow (Aliran Bahan Rombakan),57.8,335.2,1377,Sangat Tinggi,4
+LS-2024-0045,2025-05-04,Sulawesi - Luwu & Toraja,-3.2068,120.0301,Creep (Rayapan Tanah),57.6,284.4,280,Sangat Tinggi,9
+LS-2024-0046,2025-11-18,Jawa Barat - Sukabumi & Cianjur,-6.8909,107.4214,Rockfall (Guguran Batu),58.6,256.4,2820,Sangat Tinggi,5
+LS-2024-0047,2025-10-02,Sulawesi - Luwu & Toraja,-3.2774,120.0777,Slide (Gelinciran),18.7,75.5,6573,Rendah,0
+LS-2024-0048,2023-04-04,Jawa Timur - Malang & Lumajang,-8.1053,113.1354,Debris Flow (Aliran Bahan Rombakan),31.9,75.1,2351,Rendah,0
+LS-2024-0049,2023-02-28,Jawa Barat - Sukabumi & Cianjur,-6.9688,107.1041,Rockfall (Guguran Batu),40.7,272.3,2286,Tinggi,6
+LS-2024-0050,2023-12-17,Sumatra - Sesar Semangko,4.0431,95.7125,Rockfall (Guguran Batu),18.7,208.5,959,Sedang,0
+LS-2024-0051,2024-05-11,Sulawesi - Luwu & Toraja,-3.4568,120.4238,Slide (Gelinciran),56.4,125.9,1883,Tinggi,8
+LS-2024-0052,2023-06-22,Sumatra - Sesar Semangko,4.0872,96.3636,Creep (Rayapan Tanah),32.3,271.1,3802,Tinggi,7
+LS-2024-0053,2024-12-04,Jawa Timur - Malang & Lumajang,-8.1573,112.735,Slide (Gelinciran),35.9,156.0,1414,Sedang,0
+LS-2024-0054,2023-05-20,Jawa Tengah - Banjarnegara & Wonosobo,-7.2207,109.7144,Slide (Gelinciran),42.1,131.3,314,Sedang,0
+LS-2024-0055,2024-10-24,Jawa Tengah - Banjarnegara & Wonosobo,-7.2097,109.7454,Slide (Gelinciran),54.4,215.5,370,Tinggi,5
+LS-2024-0056,2025-05-26,Sumatra - Sesar Semangko,3.4411,97.9559,Rockfall (Guguran Batu),32.1,341.0,2868,Sangat Tinggi,1
+LS-2024-0057,2025-06-28,Sumatra - Sesar Semangko,3.2445,95.8202,Debris Flow (Aliran Bahan Rombakan),51.6,349.9,8642,Sangat Tinggi,4
+LS-2024-0058,2023-05-14,Sulawesi - Luwu & Toraja,-2.5552,120.3948,Slide (Gelinciran),24.2,125.4,581,Sedang,0
+LS-2024-0059,2024-10-02,Jawa Barat - Sukabumi & Cianjur,-6.9493,106.8795,Rockfall (Guguran Batu),36.4,299.4,651,Sangat Tinggi,11
+LS-2024-0060,2023-07-15,Sulawesi - Luwu & Toraja,-3.4116,120.3543,Creep (Rayapan Tanah),50.3,241.8,2552,Tinggi,11
+LS-2024-0061,2024-11-19,Jawa Barat - Sukabumi & Cianjur,-6.9546,107.2129,Rockfall (Guguran Batu),55.7,154.5,1182,Tinggi,11
+LS-2024-0062,2024-08-17,Jawa Barat - Sukabumi & Cianjur,-6.5963,107.4647,Creep (Rayapan Tanah),37.1,127.5,1021,Sedang,0
+LS-2024-0063,2025-03-15,Sulawesi - Luwu & Toraja,-3.2909,120.2058,Slide (Gelinciran),20.8,88.4,347,Rendah,0
+LS-2024-0064,2025-11-18,Jawa Timur - Malang & Lumajang,-8.0617,113.1278,Slide (Gelinciran),42.1,117.2,2687,Sedang,0
+LS-2024-0065,2024-02-17,Sulawesi - Luwu & Toraja,-2.9513,120.1741,Rockfall (Guguran Batu),37.7,257.1,160,Tinggi,8
+LS-2024-0066,2024-04-01,Jawa Tengah - Banjarnegara & Wonosobo,-7.1317,109.5244,Debris Flow (Aliran Bahan Rombakan),18.8,229.2,6530,Sedang,0
+LS-2024-0067,2024-10-14,Jawa Barat - Sukabumi & Cianjur,-6.668,107.1719,Rockfall (Guguran Batu),21.6,89.9,1843,Rendah,0
+LS-2024-0068,2025-03-15,Jawa Timur - Malang & Lumajang,-8.1571,112.8132,Debris Flow (Aliran Bahan Rombakan),19.7,271.2,401,Tinggi,0
+LS-2024-0069,2023-04-25,Jawa Barat - Sukabumi & Cianjur,-6.8253,106.9633,Slide (Gelinciran),45.6,286.8,1135,Sangat Tinggi,5
+LS-2024-0070,2025-10-09,Jawa Barat - Sukabumi & Cianjur,-6.8096,107.2106,Slide (Gelinciran),30.2,319.9,1503,Tinggi,10
+LS-2024-0071,2023-06-21,Sulawesi - Luwu & Toraja,-3.1697,120.4536,Slide (Gelinciran),21.9,123.8,362,Sedang,0
+LS-2024-0072,2023-04-24,Sumatra - Sesar Semangko,2.2407,96.5735,Rockfall (Guguran Batu),20.0,169.4,5333,Sedang,0
+LS-2024-0073,2024-09-02,Sumatra - Sesar Semangko,3.4722,97.1687,Rockfall (Guguran Batu),40.1,221.5,592,Tinggi,5
+LS-2024-0074,2023-04-17,Jawa Barat - Sukabumi & Cianjur,-6.9734,107.0978,Slide (Gelinciran),38.8,262.2,2290,Tinggi,10
+LS-2024-0075,2024-02-24,Jawa Timur - Malang & Lumajang,-8.0717,112.9157,Slide (Gelinciran),21.0,69.0,7001,Rendah,0
+LS-2024-0076,2023-11-15,Sumatra - Sesar Semangko,2.4165,95.0081,Creep (Rayapan Tanah),36.2,173.6,743,Sedang,0
+LS-2024-0077,2025-09-02,Jawa Timur - Malang & Lumajang,-8.0366,113.1531,Debris Flow (Aliran Bahan Rombakan),23.2,69.9,2127,Rendah,0
+LS-2024-0078,2024-03-21,Jawa Tengah - Banjarnegara & Wonosobo,-7.1819,109.5807,Creep (Rayapan Tanah),23.4,120.7,1606,Sedang,0
+LS-2024-0079,2025-08-14,Jawa Barat - Sukabumi & Cianjur,-6.9253,107.3716,Slide (Gelinciran),55.5,237.2,1264,Sangat Tinggi,0
+LS-2024-0080,2024-05-08,Sumatra - Sesar Semangko,3.0661,96.1744,Slide (Gelinciran),25.3,212.9,947,Sedang,0
+LS-2024-0081,2023-01-20,Jawa Barat - Sukabumi & Cianjur,-7.1025,107.3558,Rockfall (Guguran Batu),48.4,221.9,9207,Tinggi,4
+LS-2024-0082,2024-02-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.2024,109.5134,Debris Flow (Aliran Bahan Rombakan),37.2,276.4,262,Tinggi,3
+LS-2024-0083,2023-08-05,Sulawesi - Luwu & Toraja,-3.3725,120.0781,Slide (Gelinciran),36.9,172.7,2316,Sedang,0
+LS-2024-0084,2023-04-11,Jawa Timur - Malang & Lumajang,-7.9829,112.6763,Slide (Gelinciran),58.2,152.8,486,Tinggi,9
+LS-2024-0085,2024-02-25,Jawa Tengah - Banjarnegara & Wonosobo,-7.4387,109.7345,Slide (Gelinciran),26.5,267.8,1448,Tinggi,3
+LS-2024-0086,2024-01-28,Sulawesi - Luwu & Toraja,-2.5775,120.2951,Slide (Gelinciran),31.8,70.7,220,Rendah,0
+LS-2024-0087,2023-10-14,Jawa Tengah - Banjarnegara & Wonosobo,-7.3197,109.5453,Slide (Gelinciran),23.4,301.2,705,Tinggi,2
+LS-2024-0088,2024-04-25,Sulawesi - Luwu & Toraja,-3.1207,120.321,Debris Flow (Aliran Bahan Rombakan),15.2,150.0,861,Sedang,0
+LS-2024-0089,2025-01-11,Jawa Barat - Sukabumi & Cianjur,-6.874,107.1366,Debris Flow (Aliran Bahan Rombakan),16.5,323.8,527,Tinggi,3
+LS-2024-0090,2025-11-22,Sulawesi - Luwu & Toraja,-2.5852,120.0537,Creep (Rayapan Tanah),24.9,113.8,1185,Sedang,0
+LS-2024-0091,2023-08-17,Jawa Timur - Malang & Lumajang,-8.0342,112.5597,Slide (Gelinciran),28.5,143.0,859,Sedang,0
+LS-2024-0092,2025-02-01,Sulawesi - Luwu & Toraja,-2.875,120.0644,Slide (Gelinciran),49.9,186.0,1214,Tinggi,1
+LS-2024-0093,2023-07-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.4379,109.5728,Debris Flow (Aliran Bahan Rombakan),48.9,131.7,3515,Tinggi,0
+LS-2024-0094,2023-09-23,Jawa Timur - Malang & Lumajang,-7.8641,113.1069,Debris Flow (Aliran Bahan Rombakan),26.4,108.8,1156,Sedang,0
+LS-2024-0095,2025-08-02,Sulawesi - Luwu & Toraja,-3.3215,120.2569,Rockfall (Guguran Batu),51.2,346.6,1486,Sangat Tinggi,3
+LS-2024-0096,2025-07-16,Jawa Timur - Malang & Lumajang,-7.9328,112.6435,Rockfall (Guguran Batu),18.9,240.0,2097,Sedang,0
+LS-2024-0097,2024-01-15,Jawa Tengah - Banjarnegara & Wonosobo,-7.2668,109.6686,Slide (Gelinciran),43.1,150.8,2715,Sedang,3
+LS-2024-0098,2023-02-21,Sulawesi - Luwu & Toraja,-3.1548,120.3417,Slide (Gelinciran),28.3,334.5,2263,Sangat Tinggi,9
+LS-2024-0099,2023-02-19,Jawa Tengah - Banjarnegara & Wonosobo,-7.1422,109.8199,Slide (Gelinciran),38.1,272.5,1900,Tinggi,8
+LS-2024-0100,2023-02-23,Jawa Tengah - Banjarnegara & Wonosobo,-7.3313,109.5529,Rockfall (Guguran Batu),45.7,296.8,1231,Sangat Tinggi,8
+LS-2024-0101,2024-12-23,Jawa Barat - Sukabumi & Cianjur,-6.8121,107.256,Slide (Gelinciran),19.8,92.0,559,Rendah,0
+LS-2024-0102,2025-10-13,Jawa Barat - Sukabumi & Cianjur,-6.7796,107.2655,Slide (Gelinciran),52.7,171.3,2310,Tinggi,1
+LS-2024-0103,2023-04-19,Jawa Timur - Malang & Lumajang,-7.8165,112.6291,Slide (Gelinciran),26.0,166.8,610,Sedang,0
+LS-2024-0104,2024-06-05,Jawa Tengah - Banjarnegara & Wonosobo,-7.1203,109.6587,Slide (Gelinciran),36.8,131.0,1264,Sedang,0
+LS-2024-0105,2024-09-26,Sumatra - Sesar Semangko,3.4891,96.7905,Slide (Gelinciran),36.3,153.3,749,Sedang,0
+LS-2024-0106,2024-05-12,Jawa Barat - Sukabumi & Cianjur,-6.8782,106.8532,Slide (Gelinciran),46.3,131.6,1438,Sedang,10
+LS-2024-0107,2025-01-15,Sumatra - Sesar Semangko,2.4105,97.8507,Debris Flow (Aliran Bahan Rombakan),18.9,337.5,2230,Tinggi,0
+LS-2024-0108,2023-02-25,Sulawesi - Luwu & Toraja,-2.8077,120.3944,Debris Flow (Aliran Bahan Rombakan),44.1,258.0,179,Tinggi,9
+LS-2024-0109,2024-07-14,Sumatra - Sesar Semangko,2.5417,96.7038,Slide (Gelinciran),20.4,269.3,420,Tinggi,10
+LS-2024-0110,2025-03-18,Sulawesi - Luwu & Toraja,-3.0258,120.4034,Slide (Gelinciran),38.5,243.4,1675,Tinggi,11
+LS-2024-0111,2025-08-26,Jawa Timur - Malang & Lumajang,-8.0076,113.1195,Debris Flow (Aliran Bahan Rombakan),47.6,69.6,668,Sedang,0
+LS-2024-0112,2023-10-12,Sumatra - Sesar Semangko,4.2136,96.5605,Slide (Gelinciran),25.5,57.3,3161,Rendah,0
+LS-2024-0113,2025-07-14,Sulawesi - Luwu & Toraja,-3.116,120.4528,Debris Flow (Aliran Bahan Rombakan),30.8,280.2,871,Tinggi,8
+LS-2024-0114,2023-07-20,Jawa Timur - Malang & Lumajang,-7.8064,113.0378,Slide (Gelinciran),48.2,121.6,275,Sedang,0
+LS-2024-0115,2023-05-14,Jawa Timur - Malang & Lumajang,-7.9138,112.9124,Slide (Gelinciran),17.0,82.8,845,Rendah,0
+LS-2024-0116,2024-07-24,Sulawesi - Luwu & Toraja,-2.7137,119.8626,Creep (Rayapan Tanah),54.8,230.2,3610,Sangat Tinggi,6
+LS-2024-0117,2023-06-21,Jawa Timur - Malang & Lumajang,-8.174,112.7811,Slide (Gelinciran),52.4,86.1,172,Sedang,9
+LS-2024-0118,2024-07-17,Jawa Tengah - Banjarnegara & Wonosobo,-7.1695,109.8203,Slide (Gelinciran),38.3,229.2,1216,Tinggi,2
+LS-2024-0119,2025-03-06,Jawa Barat - Sukabumi & Cianjur,-6.8562,107.4974,Rockfall (Guguran Batu),43.0,274.4,153,Sangat Tinggi,4
+LS-2024-0120,2025-12-09,Jawa Barat - Sukabumi & Cianjur,-6.8798,107.0738,Slide (Gelinciran),17.0,305.7,154,Tinggi,8
+LS-2024-0121,2025-06-08,Sulawesi - Luwu & Toraja,-2.7648,119.997,Creep (Rayapan Tanah),46.3,64.6,1240,Sedang,0
+LS-2024-0122,2023-03-26,Jawa Timur - Malang & Lumajang,-8.1695,113.0958,Rockfall (Guguran Batu),40.7,248.6,1277,Tinggi,0
+LS-2024-0123,2025-11-16,Jawa Tengah - Banjarnegara & Wonosobo,-7.1527,109.5981,Debris Flow (Aliran Bahan Rombakan),46.9,301.1,1893,Sangat Tinggi,10
+LS-2024-0124,2024-09-19,Jawa Timur - Malang & Lumajang,-8.1366,113.1166,Slide (Gelinciran),54.6,51.5,2671,Sedang,0
+LS-2024-0125,2023-12-07,Jawa Barat - Sukabumi & Cianjur,-6.6274,107.3825,Debris Flow (Aliran Bahan Rombakan),23.7,75.2,692,Rendah,0
+LS-2024-0126,2025-06-19,Jawa Barat - Sukabumi & Cianjur,-6.7562,107.178,Slide (Gelinciran),49.2,212.4,5044,Tinggi,11
+LS-2024-0127,2024-04-27,Sulawesi - Luwu & Toraja,-3.3975,120.4561,Debris Flow (Aliran Bahan Rombakan),22.5,281.3,1949,Tinggi,5
+LS-2024-0128,2024-12-04,Jawa Barat - Sukabumi & Cianjur,-7.1477,107.3967,Slide (Gelinciran),44.1,228.3,825,Tinggi,0
+LS-2024-0129,2024-02-04,Jawa Tengah - Banjarnegara & Wonosobo,-7.399,109.5004,Rockfall (Guguran Batu),34.2,185.4,368,Sedang,0
+LS-2024-0130,2024-11-27,Jawa Timur - Malang & Lumajang,-7.864,113.041,Debris Flow (Aliran Bahan Rombakan),54.1,339.0,147,Sangat Tinggi,4
+LS-2024-0131,2023-03-27,Jawa Tengah - Banjarnegara & Wonosobo,-7.1142,109.804,Slide (Gelinciran),33.4,318.2,491,Sangat Tinggi,0
+LS-2024-0132,2025-08-28,Sumatra - Sesar Semangko,4.1448,96.6883,Rockfall (Guguran Batu),23.3,310.6,2348,Tinggi,1
+LS-2024-0133,2023-08-28,Jawa Timur - Malang & Lumajang,-8.1929,113.0578,Slide (Gelinciran),58.5,105.6,1030,Tinggi,6
+LS-2024-0134,2023-06-16,Sumatra - Sesar Semangko,3.8219,95.7426,Slide (Gelinciran),37.1,69.3,1408,Sedang,0
+LS-2024-0135,2023-02-18,Jawa Tengah - Banjarnegara & Wonosobo,-7.1063,109.5598,Debris Flow (Aliran Bahan Rombakan),36.6,230.0,617,Tinggi,0
+LS-2024-0136,2024-03-24,Jawa Timur - Malang & Lumajang,-7.8881,112.5277,Slide (Gelinciran),21.6,80.8,1369,Rendah,0
+LS-2024-0137,2024-12-01,Jawa Timur - Malang & Lumajang,-7.919,112.8918,Slide (Gelinciran),38.3,76.4,747,Sedang,5
+LS-2024-0138,2024-02-15,Jawa Barat - Sukabumi & Cianjur,-6.5158,106.9406,Debris Flow (Aliran Bahan Rombakan),24.0,100.2,265,Rendah,0
+LS-2024-0139,2023-02-12,Sumatra - Sesar Semangko,4.8086,95.1559,Slide (Gelinciran),54.2,264.2,2527,Sangat Tinggi,10
+LS-2024-0140,2024-06-26,Jawa Tengah - Banjarnegara & Wonosobo,-7.1421,109.719,Slide (Gelinciran),36.6,62.2,368,Sedang,0
+LS-2024-0141,2023-03-26,Jawa Timur - Malang & Lumajang,-8.1012,112.6117,Rockfall (Guguran Batu),29.8,191.1,2145,Sedang,0
+LS-2024-0142,2025-06-05,Jawa Tengah - Banjarnegara & Wonosobo,-7.4353,109.5083,Slide (Gelinciran),59.8,342.4,1676,Sangat Tinggi,2
+LS-2024-0143,2023-07-12,Sulawesi - Luwu & Toraja,-3.4278,119.8215,Rockfall (Guguran Batu),22.8,338.2,906,Tinggi,4
+LS-2024-0144,2024-01-19,Jawa Timur - Malang & Lumajang,-7.9059,113.0374,Debris Flow (Aliran Bahan Rombakan),41.0,181.6,2037,Tinggi,1
+LS-2024-0145,2025-03-26,Jawa Barat - Sukabumi & Cianjur,-6.6449,107.2585,Debris Flow (Aliran Bahan Rombakan),56.1,113.2,1563,Tinggi,0
+LS-2024-0146,2024-07-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.1896,109.6621,Rockfall (Guguran Batu),25.7,341.4,399,Sangat Tinggi,8
+LS-2024-0147,2025-09-20,Jawa Timur - Malang & Lumajang,-8.038,112.915,Creep (Rayapan Tanah),41.7,99.1,844,Sedang,0
+LS-2024-0148,2023-07-15,Sulawesi - Luwu & Toraja,-3.491,120.2119,Slide (Gelinciran),25.6,315.1,975,Tinggi,9
+LS-2024-0149,2025-12-01,Jawa Timur - Malang & Lumajang,-7.8684,112.8016,Debris Flow (Aliran Bahan Rombakan),26.4,157.8,815,Sedang,0
+LS-2024-0150,2025-06-12,Jawa Timur - Malang & Lumajang,-8.0101,113.0909,Slide (Gelinciran),39.3,60.3,6579,Sedang,0
+LS-2024-0151,2024-05-21,Jawa Barat - Sukabumi & Cianjur,-7.1725,106.8855,Debris Flow (Aliran Bahan Rombakan),19.0,81.0,1418,Rendah,0
+LS-2024-0152,2024-09-18,Jawa Barat - Sukabumi & Cianjur,-6.5244,106.8035,Debris Flow (Aliran Bahan Rombakan),58.8,224.0,539,Sangat Tinggi,6
+LS-2024-0153,2024-04-16,Jawa Timur - Malang & Lumajang,-7.9871,112.588,Slide (Gelinciran),57.3,269.9,365,Sangat Tinggi,6
+LS-2024-0154,2024-02-01,Sulawesi - Luwu & Toraja,-3.0562,120.4077,Debris Flow (Aliran Bahan Rombakan),52.7,333.4,1824,Sangat Tinggi,0
+LS-2024-0155,2025-08-25,Jawa Barat - Sukabumi & Cianjur,-6.5918,107.1994,Debris Flow (Aliran Bahan Rombakan),46.0,253.0,464,Tinggi,4
+LS-2024-0156,2024-02-06,Sulawesi - Luwu & Toraja,-2.9228,120.044,Rockfall (Guguran Batu),29.3,309.9,7616,Tinggi,4
+LS-2024-0157,2024-06-14,Sulawesi - Luwu & Toraja,-3.2113,119.8764,Rockfall (Guguran Batu),56.7,181.5,3574,Tinggi,6
+LS-2024-0158,2024-06-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.1524,109.6503,Slide (Gelinciran),15.3,147.4,784,Sedang,0
+LS-2024-0159,2023-03-12,Jawa Timur - Malang & Lumajang,-7.9806,112.9175,Debris Flow (Aliran Bahan Rombakan),15.7,226.1,376,Sedang,0
+LS-2024-0160,2024-06-28,Sumatra - Sesar Semangko,3.1394,97.59,Slide (Gelinciran),16.2,152.4,817,Sedang,0
+LS-2024-0161,2025-06-14,Jawa Timur - Malang & Lumajang,-8.0093,112.7761,Slide (Gelinciran),47.3,336.7,127,Sangat Tinggi,6
+LS-2024-0162,2025-03-15,Sulawesi - Luwu & Toraja,-2.602,119.9704,Slide (Gelinciran),23.9,193.8,424,Sedang,0
+LS-2024-0163,2025-12-03,Sulawesi - Luwu & Toraja,-3.2151,120.0151,Slide (Gelinciran),41.1,76.9,1996,Sedang,0
+LS-2024-0164,2025-12-10,Jawa Barat - Sukabumi & Cianjur,-7.1147,106.9268,Rockfall (Guguran Batu),51.0,105.4,624,Sedang,0
+LS-2024-0165,2024-01-12,Jawa Timur - Malang & Lumajang,-8.0302,112.5609,Debris Flow (Aliran Bahan Rombakan),17.0,239.9,4636,Sedang,0
+LS-2024-0166,2024-08-26,Jawa Timur - Malang & Lumajang,-8.1088,112.6484,Debris Flow (Aliran Bahan Rombakan),31.2,321.8,2304,Sangat Tinggi,10
+LS-2024-0167,2025-10-25,Sulawesi - Luwu & Toraja,-3.1979,120.3124,Debris Flow (Aliran Bahan Rombakan),19.3,237.2,1001,Sedang,0
+LS-2024-0168,2023-01-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.1523,109.6892,Debris Flow (Aliran Bahan Rombakan),16.1,242.6,1501,Sedang,0
+LS-2024-0169,2024-03-07,Sulawesi - Luwu & Toraja,-2.9055,120.1477,Debris Flow (Aliran Bahan Rombakan),46.3,171.3,938,Tinggi,0
+LS-2024-0170,2025-04-26,Jawa Tengah - Banjarnegara & Wonosobo,-7.1035,109.5514,Slide (Gelinciran),30.2,321.7,2321,Sangat Tinggi,4
+LS-2024-0171,2023-11-06,Sumatra - Sesar Semangko,3.7873,96.2036,Slide (Gelinciran),31.0,70.8,1198,Rendah,0
+LS-2024-0172,2024-03-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.2439,109.6085,Slide (Gelinciran),25.4,187.1,416,Sedang,0
+LS-2024-0173,2024-12-26,Sumatra - Sesar Semangko,4.9864,96.3391,Slide (Gelinciran),58.1,102.6,1856,Tinggi,9
+LS-2024-0174,2025-07-28,Sumatra - Sesar Semangko,4.4654,95.0037,Rockfall (Guguran Batu),58.8,56.0,2104,Sedang,0
+LS-2024-0175,2025-01-21,Sulawesi - Luwu & Toraja,-3.4071,119.9799,Slide (Gelinciran),52.2,284.6,1950,Sangat Tinggi,0
+LS-2024-0176,2024-11-25,Jawa Barat - Sukabumi & Cianjur,-6.9608,107.0666,Slide (Gelinciran),39.9,141.7,858,Sedang,0
+LS-2024-0177,2023-04-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.1855,109.7298,Debris Flow (Aliran Bahan Rombakan),37.6,169.2,1263,Sedang,0
+LS-2024-0178,2025-04-14,Jawa Barat - Sukabumi & Cianjur,-6.5924,107.3641,Debris Flow (Aliran Bahan Rombakan),18.6,170.9,385,Sedang,0
+LS-2024-0179,2024-09-22,Jawa Timur - Malang & Lumajang,-7.9708,113.1529,Rockfall (Guguran Batu),29.1,231.9,324,Tinggi,3
+LS-2024-0180,2023-05-02,Jawa Tengah - Banjarnegara & Wonosobo,-7.1189,109.8301,Creep (Rayapan Tanah),18.1,57.7,317,Rendah,0
+LS-2024-0181,2024-12-06,Jawa Timur - Malang & Lumajang,-8.0753,112.8543,Slide (Gelinciran),15.0,55.3,1484,Rendah,0
+LS-2024-0182,2024-11-18,Sulawesi - Luwu & Toraja,-2.7192,120.1219,Slide (Gelinciran),17.6,258.5,6272,Tinggi,2
+LS-2024-0183,2025-07-16,Sulawesi - Luwu & Toraja,-3.3786,120.0123,Slide (Gelinciran),46.1,235.4,1604,Tinggi,4
+LS-2024-0184,2024-07-18,Jawa Timur - Malang & Lumajang,-8.0775,112.9367,Slide (Gelinciran),20.9,316.0,996,Tinggi,6
+LS-2024-0185,2023-06-05,Jawa Tengah - Banjarnegara & Wonosobo,-7.3343,109.831,Slide (Gelinciran),15.5,174.8,1084,Sedang,0
+LS-2024-0186,2023-01-13,Jawa Barat - Sukabumi & Cianjur,-6.7233,106.9328,Rockfall (Guguran Batu),15.5,122.4,5686,Rendah,0
+LS-2024-0187,2025-05-20,Jawa Timur - Malang & Lumajang,-8.0514,112.6861,Rockfall (Guguran Batu),27.0,94.8,304,Rendah,0
+LS-2024-0188,2023-06-10,Jawa Barat - Sukabumi & Cianjur,-6.8668,107.0631,Rockfall (Guguran Batu),50.3,317.6,4762,Sangat Tinggi,8
+LS-2024-0189,2023-01-10,Sumatra - Sesar Semangko,4.0644,96.3128,Rockfall (Guguran Batu),56.9,125.9,2379,Tinggi,6
+LS-2024-0190,2023-01-28,Jawa Barat - Sukabumi & Cianjur,-6.9296,107.1151,Creep (Rayapan Tanah),35.3,314.7,267,Sangat Tinggi,6
+LS-2024-0191,2025-11-01,Sulawesi - Luwu & Toraja,-3.4522,119.8266,Creep (Rayapan Tanah),18.2,71.4,118,Rendah,0
+LS-2024-0192,2025-03-07,Jawa Barat - Sukabumi & Cianjur,-6.8766,107.4941,Debris Flow (Aliran Bahan Rombakan),50.3,156.5,896,Tinggi,5
+LS-2024-0193,2023-08-08,Jawa Barat - Sukabumi & Cianjur,-7.1853,106.8575,Slide (Gelinciran),43.1,164.6,445,Tinggi,3
+LS-2024-0194,2024-02-10,Sumatra - Sesar Semangko,3.9317,96.5909,Debris Flow (Aliran Bahan Rombakan),50.9,137.8,5965,Tinggi,4
+LS-2024-0195,2023-08-18,Jawa Timur - Malang & Lumajang,-8.1373,112.5306,Slide (Gelinciran),25.1,161.7,948,Sedang,0
+LS-2024-0196,2025-01-24,Jawa Timur - Malang & Lumajang,-8.1037,112.5851,Rockfall (Guguran Batu),59.7,251.4,671,Sangat Tinggi,11
+LS-2024-0197,2024-05-08,Sumatra - Sesar Semangko,3.632,96.9082,Slide (Gelinciran),48.7,217.3,398,Tinggi,5
+LS-2024-0198,2023-02-02,Jawa Tengah - Banjarnegara & Wonosobo,-7.3923,109.7158,Slide (Gelinciran),20.9,267.8,2653,Tinggi,2
+LS-2024-0199,2023-01-24,Jawa Timur - Malang & Lumajang,-7.9069,112.8796,Slide (Gelinciran),42.5,81.8,346,Sedang,0
+LS-2024-0200,2024-10-16,Sumatra - Sesar Semangko,4.2834,95.4802,Slide (Gelinciran),51.5,272.5,3298,Sangat Tinggi,2
+LS-2024-0201,2023-07-27,Jawa Barat - Sukabumi & Cianjur,-6.7397,107.0177,Debris Flow (Aliran Bahan Rombakan),23.5,156.6,2397,Sedang,9
+LS-2024-0202,2024-09-02,Jawa Barat - Sukabumi & Cianjur,-7.1753,107.322,Rockfall (Guguran Batu),49.1,253.5,2217,Sangat Tinggi,5
+LS-2024-0203,2023-04-20,Jawa Tengah - Banjarnegara & Wonosobo,-7.1015,109.6473,Debris Flow (Aliran Bahan Rombakan),50.1,115.2,322,Sedang,6
+LS-2024-0204,2023-04-17,Sulawesi - Luwu & Toraja,-3.4709,119.9168,Slide (Gelinciran),41.5,194.3,1642,Tinggi,9
+LS-2024-0205,2024-02-19,Jawa Timur - Malang & Lumajang,-7.9757,112.9224,Slide (Gelinciran),27.1,297.5,1134,Tinggi,5
+LS-2024-0206,2023-04-19,Sulawesi - Luwu & Toraja,-2.7541,120.4874,Slide (Gelinciran),34.8,94.2,696,Sedang,3
+LS-2024-0207,2025-09-28,Sumatra - Sesar Semangko,3.7947,97.207,Debris Flow (Aliran Bahan Rombakan),28.5,102.0,1622,Sedang,0
+LS-2024-0208,2023-09-20,Jawa Timur - Malang & Lumajang,-8.0465,112.9003,Slide (Gelinciran),31.3,150.4,139,Sedang,0
+LS-2024-0209,2025-05-19,Sulawesi - Luwu & Toraja,-2.8023,120.4507,Rockfall (Guguran Batu),26.7,178.9,3192,Sedang,0
+LS-2024-0210,2024-10-04,Sumatra - Sesar Semangko,3.3055,97.8121,Rockfall (Guguran Batu),17.2,321.2,3701,Tinggi,3
+LS-2024-0211,2023-04-24,Sumatra - Sesar Semangko,2.4767,96.8307,Slide (Gelinciran),36.2,54.0,598,Rendah,6
+LS-2024-0212,2024-06-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.3898,109.8149,Rockfall (Guguran Batu),53.0,130.4,355,Tinggi,10
+LS-2024-0213,2023-04-18,Jawa Timur - Malang & Lumajang,-7.9521,112.8934,Slide (Gelinciran),33.5,154.2,3551,Sedang,0
+LS-2024-0214,2023-10-26,Jawa Timur - Malang & Lumajang,-8.1488,113.1175,Creep (Rayapan Tanah),33.8,128.0,2068,Sedang,0
+LS-2024-0215,2023-03-19,Jawa Tengah - Banjarnegara & Wonosobo,-7.2099,109.5765,Slide (Gelinciran),58.7,232.6,745,Sangat Tinggi,1
+LS-2024-0216,2025-06-23,Sulawesi - Luwu & Toraja,-3.2747,119.9757,Slide (Gelinciran),39.5,344.2,487,Sangat Tinggi,10
+LS-2024-0217,2024-06-14,Sumatra - Sesar Semangko,4.3751,96.6465,Creep (Rayapan Tanah),35.6,195.4,371,Tinggi,8
+LS-2024-0218,2025-07-22,Jawa Barat - Sukabumi & Cianjur,-7.1317,107.4034,Slide (Gelinciran),28.1,286.1,278,Tinggi,2
+LS-2024-0219,2025-05-20,Jawa Tengah - Banjarnegara & Wonosobo,-7.1855,109.5805,Slide (Gelinciran),39.5,277.5,2204,Tinggi,7
+LS-2024-0220,2024-11-09,Sulawesi - Luwu & Toraja,-2.8404,119.9131,Debris Flow (Aliran Bahan Rombakan),40.2,275.2,1324,Tinggi,7
+LS-2024-0221,2025-06-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.1363,109.7155,Rockfall (Guguran Batu),44.6,296.6,818,Sangat Tinggi,2
+LS-2024-0222,2023-04-05,Jawa Tengah - Banjarnegara & Wonosobo,-7.4185,109.7093,Creep (Rayapan Tanah),43.6,289.4,856,Sangat Tinggi,7
+LS-2024-0223,2024-07-16,Jawa Barat - Sukabumi & Cianjur,-7.0894,107.2871,Creep (Rayapan Tanah),53.6,321.8,586,Sangat Tinggi,0
+LS-2024-0224,2023-12-16,Jawa Timur - Malang & Lumajang,-8.1192,112.629,Slide (Gelinciran),21.8,182.1,1532,Sedang,0
+LS-2024-0225,2023-07-21,Jawa Timur - Malang & Lumajang,-7.9041,112.7238,Rockfall (Guguran Batu),45.1,240.4,372,Tinggi,10
+LS-2024-0226,2023-04-02,Jawa Tengah - Banjarnegara & Wonosobo,-7.2253,109.5372,Slide (Gelinciran),24.4,163.7,5543,Sedang,0
+LS-2024-0227,2023-11-02,Jawa Barat - Sukabumi & Cianjur,-7.1225,107.3317,Debris Flow (Aliran Bahan Rombakan),52.0,187.8,764,Tinggi,2
+LS-2024-0228,2023-12-24,Jawa Timur - Malang & Lumajang,-8.0659,112.6216,Creep (Rayapan Tanah),18.9,265.7,917,Tinggi,2
+LS-2024-0229,2024-01-05,Jawa Barat - Sukabumi & Cianjur,-6.6758,107.2558,Slide (Gelinciran),51.3,303.1,539,Sangat Tinggi,1
+LS-2024-0230,2025-07-06,Jawa Barat - Sukabumi & Cianjur,-6.9796,106.8027,Slide (Gelinciran),53.5,118.2,2821,Tinggi,2
+LS-2024-0231,2025-05-03,Jawa Timur - Malang & Lumajang,-7.8534,112.6509,Creep (Rayapan Tanah),49.3,172.5,2235,Tinggi,0
+LS-2024-0232,2024-03-01,Sumatra - Sesar Semangko,4.3653,96.995,Slide (Gelinciran),54.3,50.1,377,Sedang,0
+LS-2024-0233,2025-11-20,Jawa Timur - Malang & Lumajang,-8.0474,112.5902,Creep (Rayapan Tanah),15.8,176.4,141,Sedang,0
+LS-2024-0234,2024-03-09,Sumatra - Sesar Semangko,2.8767,97.7323,Debris Flow (Aliran Bahan Rombakan),52.8,344.5,1556,Sangat Tinggi,11
+LS-2024-0235,2024-08-06,Sumatra - Sesar Semangko,2.8446,97.6183,Slide (Gelinciran),20.4,70.5,558,Rendah,0
+LS-2024-0236,2025-09-27,Jawa Timur - Malang & Lumajang,-8.0795,112.9189,Rockfall (Guguran Batu),47.9,229.6,199,Tinggi,1
+LS-2024-0237,2025-07-16,Sumatra - Sesar Semangko,2.9912,96.0212,Debris Flow (Aliran Bahan Rombakan),25.8,288.4,152,Tinggi,1
+LS-2024-0238,2023-03-12,Sulawesi - Luwu & Toraja,-2.9786,119.8445,Debris Flow (Aliran Bahan Rombakan),20.2,78.2,3705,Rendah,0
+LS-2024-0239,2024-12-14,Sumatra - Sesar Semangko,2.0754,97.0834,Slide (Gelinciran),49.8,230.6,3445,Tinggi,7
+LS-2024-0240,2023-03-04,Sulawesi - Luwu & Toraja,-2.8687,120.2142,Rockfall (Guguran Batu),45.4,89.5,500,Sedang,0
+LS-2024-0241,2025-09-01,Jawa Timur - Malang & Lumajang,-7.8198,112.9205,Slide (Gelinciran),27.1,172.1,3431,Sedang,5
+LS-2024-0242,2024-01-25,Jawa Barat - Sukabumi & Cianjur,-6.5648,106.9672,Debris Flow (Aliran Bahan Rombakan),29.9,194.6,427,Sedang,0
+LS-2024-0243,2024-01-08,Sumatra - Sesar Semangko,3.5497,95.0165,Rockfall (Guguran Batu),16.7,82.4,720,Rendah,0
+LS-2024-0244,2023-08-05,Jawa Barat - Sukabumi & Cianjur,-6.9946,107.4522,Rockfall (Guguran Batu),27.8,295.5,1237,Tinggi,6
+LS-2024-0245,2024-03-11,Sumatra - Sesar Semangko,2.089,97.0263,Slide (Gelinciran),20.9,132.4,852,Sedang,0
+LS-2024-0246,2023-10-07,Sulawesi - Luwu & Toraja,-2.786,120.2255,Slide (Gelinciran),57.9,266.4,3080,Sangat Tinggi,6
+LS-2024-0247,2024-04-01,Sumatra - Sesar Semangko,3.8114,97.0598,Slide (Gelinciran),35.5,160.7,293,Sedang,0
+LS-2024-0248,2023-07-02,Sumatra - Sesar Semangko,3.2127,95.9632,Debris Flow (Aliran Bahan Rombakan),45.1,253.6,773,Tinggi,9
+LS-2024-0249,2025-12-03,Jawa Barat - Sukabumi & Cianjur,-7.1028,106.881,Slide (Gelinciran),47.6,86.2,3591,Sedang,0
+LS-2024-0250,2025-11-01,Jawa Barat - Sukabumi & Cianjur,-7.1918,107.0954,Rockfall (Guguran Batu),18.8,169.8,3714,Sedang,0
+LS-2024-0251,2023-06-11,Sumatra - Sesar Semangko,4.1875,96.9569,Slide (Gelinciran),34.3,251.9,583,Tinggi,9
+LS-2024-0252,2025-12-12,Jawa Timur - Malang & Lumajang,-8.1095,112.769,Debris Flow (Aliran Bahan Rombakan),56.2,179.3,675,Tinggi,9
+LS-2024-0253,2023-08-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.2596,109.7822,Slide (Gelinciran),38.0,99.7,1656,Sedang,0
+LS-2024-0254,2024-12-03,Jawa Timur - Malang & Lumajang,-8.0641,112.8621,Slide (Gelinciran),30.3,71.5,890,Rendah,0
+LS-2024-0255,2024-01-04,Sulawesi - Luwu & Toraja,-2.9689,120.3892,Creep (Rayapan Tanah),22.5,341.6,489,Tinggi,2
+LS-2024-0256,2024-06-11,Jawa Tengah - Banjarnegara & Wonosobo,-7.4457,109.5397,Rockfall (Guguran Batu),32.5,98.0,135,Sedang,0
+LS-2024-0257,2024-12-05,Jawa Barat - Sukabumi & Cianjur,-6.5699,106.8813,Debris Flow (Aliran Bahan Rombakan),36.3,183.2,8005,Tinggi,10
+LS-2024-0258,2024-04-05,Jawa Timur - Malang & Lumajang,-8.1876,113.1795,Rockfall (Guguran Batu),21.9,216.1,1270,Sedang,0
+LS-2024-0259,2023-03-26,Jawa Tengah - Banjarnegara & Wonosobo,-7.3575,109.8307,Creep (Rayapan Tanah),17.6,152.7,572,Sedang,0
+LS-2024-0260,2023-03-13,Jawa Tengah - Banjarnegara & Wonosobo,-7.4339,109.7332,Creep (Rayapan Tanah),43.2,196.7,870,Tinggi,11
+LS-2024-0261,2024-03-05,Jawa Barat - Sukabumi & Cianjur,-6.7636,107.1986,Debris Flow (Aliran Bahan Rombakan),47.9,94.4,2971,Sedang,0
+LS-2024-0262,2023-12-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.1362,109.7889,Rockfall (Guguran Batu),20.9,287.2,299,Tinggi,3
+LS-2024-0263,2023-03-19,Sumatra - Sesar Semangko,4.6313,97.8321,Debris Flow (Aliran Bahan Rombakan),38.1,78.1,2207,Sedang,0
+LS-2024-0264,2025-11-11,Jawa Timur - Malang & Lumajang,-8.0857,112.6423,Rockfall (Guguran Batu),56.3,158.7,2040,Tinggi,10
+LS-2024-0265,2025-04-07,Jawa Barat - Sukabumi & Cianjur,-6.8896,107.2215,Rockfall (Guguran Batu),58.0,110.1,273,Tinggi,0
+LS-2024-0266,2025-06-03,Sumatra - Sesar Semangko,4.5409,97.6793,Creep (Rayapan Tanah),35.2,203.1,1577,Tinggi,1
+LS-2024-0267,2024-10-21,Sulawesi - Luwu & Toraja,-3.4695,120.4104,Slide (Gelinciran),31.1,291.3,590,Tinggi,8
+LS-2024-0268,2023-08-07,Jawa Tengah - Banjarnegara & Wonosobo,-7.1009,109.7707,Debris Flow (Aliran Bahan Rombakan),15.1,63.2,727,Rendah,7
+LS-2024-0269,2023-04-03,Sulawesi - Luwu & Toraja,-2.6781,120.3664,Slide (Gelinciran),42.6,76.6,1103,Sedang,0
+LS-2024-0270,2023-02-13,Jawa Tengah - Banjarnegara & Wonosobo,-7.3605,109.5444,Slide (Gelinciran),58.0,206.8,634,Tinggi,6
+LS-2024-0271,2024-02-26,Jawa Barat - Sukabumi & Cianjur,-6.6438,107.295,Slide (Gelinciran),33.1,138.6,496,Sedang,0
+LS-2024-0272,2025-01-17,Jawa Tengah - Banjarnegara & Wonosobo,-7.4912,109.7333,Slide (Gelinciran),43.8,343.7,1487,Sangat Tinggi,8
+LS-2024-0273,2025-10-10,Sumatra - Sesar Semangko,2.3688,97.666,Debris Flow (Aliran Bahan Rombakan),52.0,216.4,1620,Tinggi,1
+LS-2024-0274,2025-06-04,Jawa Timur - Malang & Lumajang,-8.1061,112.7122,Debris Flow (Aliran Bahan Rombakan),21.4,282.6,574,Tinggi,1
+LS-2024-0275,2023-12-17,Jawa Barat - Sukabumi & Cianjur,-6.6234,107.3052,Slide (Gelinciran),29.3,50.0,1173,Rendah,0
+LS-2024-0276,2023-06-05,Sumatra - Sesar Semangko,2.1881,97.518,Rockfall (Guguran Batu),57.3,74.8,4108,Sedang,0
+LS-2024-0277,2024-03-13,Sumatra - Sesar Semangko,4.5281,95.94,Debris Flow (Aliran Bahan Rombakan),34.0,163.2,4230,Sedang,0
+LS-2024-0278,2023-08-23,Jawa Barat - Sukabumi & Cianjur,-6.8048,107.4511,Debris Flow (Aliran Bahan Rombakan),15.2,100.1,1972,Rendah,0
+LS-2024-0279,2023-09-21,Jawa Timur - Malang & Lumajang,-8.1482,112.9733,Slide (Gelinciran),36.4,240.3,11403,Tinggi,5
+LS-2024-0280,2024-03-12,Jawa Timur - Malang & Lumajang,-7.8537,112.8332,Debris Flow (Aliran Bahan Rombakan),15.1,307.7,408,Tinggi,3
+LS-2024-0281,2025-06-24,Jawa Barat - Sukabumi & Cianjur,-7.0516,107.2601,Slide (Gelinciran),44.1,288.9,2203,Sangat Tinggi,8
+LS-2024-0282,2023-12-08,Jawa Timur - Malang & Lumajang,-7.9046,112.7209,Slide (Gelinciran),36.1,223.8,233,Tinggi,8
+LS-2024-0283,2025-05-10,Sumatra - Sesar Semangko,2.3345,96.5476,Slide (Gelinciran),15.7,163.7,717,Sedang,0
+LS-2024-0284,2024-01-12,Jawa Barat - Sukabumi & Cianjur,-7.178,107.3153,Creep (Rayapan Tanah),41.8,53.0,1035,Sedang,0
+LS-2024-0285,2025-01-08,Sumatra - Sesar Semangko,2.9356,97.322,Slide (Gelinciran),20.9,307.1,1384,Tinggi,8
+LS-2024-0286,2023-09-01,Jawa Barat - Sukabumi & Cianjur,-7.0728,107.1049,Debris Flow (Aliran Bahan Rombakan),48.3,117.0,1640,Sedang,0
+LS-2024-0287,2025-03-09,Sulawesi - Luwu & Toraja,-2.8535,120.4819,Slide (Gelinciran),39.6,298.9,1497,Sangat Tinggi,5
+LS-2024-0288,2023-02-02,Jawa Tengah - Banjarnegara & Wonosobo,-7.3788,109.5263,Slide (Gelinciran),36.8,274.2,1063,Tinggi,9
+LS-2024-0289,2024-11-15,Sumatra - Sesar Semangko,2.7175,96.5922,Debris Flow (Aliran Bahan Rombakan),40.3,283.1,444,Sangat Tinggi,6
+LS-2024-0290,2025-03-11,Jawa Barat - Sukabumi & Cianjur,-6.5727,107.393,Slide (Gelinciran),59.2,208.2,3653,Sangat Tinggi,10
+LS-2024-0291,2024-08-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.1761,109.879,Slide (Gelinciran),36.1,317.0,1945,Sangat Tinggi,0
+LS-2024-0292,2025-08-22,Jawa Barat - Sukabumi & Cianjur,-7.1945,107.2416,Slide (Gelinciran),33.7,140.6,2247,Sedang,0
+LS-2024-0293,2024-02-14,Sulawesi - Luwu & Toraja,-2.8791,120.4501,Slide (Gelinciran),39.6,179.8,167,Tinggi,7
+LS-2024-0294,2023-11-13,Jawa Timur - Malang & Lumajang,-7.8409,112.972,Slide (Gelinciran),38.7,167.6,1714,Sedang,0
+LS-2024-0295,2024-09-12,Jawa Timur - Malang & Lumajang,-7.8021,112.9982,Slide (Gelinciran),26.7,181.1,1450,Sedang,0
+LS-2024-0296,2023-11-02,Jawa Barat - Sukabumi & Cianjur,-7.1901,107.3806,Creep (Rayapan Tanah),46.4,168.6,4683,Tinggi,7
+LS-2024-0297,2025-01-11,Sulawesi - Luwu & Toraja,-2.6458,120.3412,Rockfall (Guguran Batu),45.0,98.8,1348,Sedang,0
+LS-2024-0298,2024-11-21,Sumatra - Sesar Semangko,4.5062,97.3533,Debris Flow (Aliran Bahan Rombakan),25.0,146.5,2926,Sedang,4
+LS-2024-0299,2023-10-04,Jawa Tengah - Banjarnegara & Wonosobo,-7.4883,109.6924,Creep (Rayapan Tanah),28.0,169.4,3879,Sedang,6
+LS-2024-0300,2024-03-03,Sumatra - Sesar Semangko,3.9063,95.2722,Rockfall (Guguran Batu),57.8,223.1,762,Sangat Tinggi,3
+LS-2024-0301,2023-02-01,Sulawesi - Luwu & Toraja,-2.9359,120.051,Debris Flow (Aliran Bahan Rombakan),23.6,325.5,261,Tinggi,10
+LS-2024-0302,2023-06-02,Sumatra - Sesar Semangko,2.1168,95.1081,Debris Flow (Aliran Bahan Rombakan),45.6,117.5,946,Sedang,0
+LS-2024-0303,2025-12-07,Sulawesi - Luwu & Toraja,-2.9833,120.3311,Slide (Gelinciran),55.2,333.9,3446,Sangat Tinggi,3
+LS-2024-0304,2023-08-09,Jawa Barat - Sukabumi & Cianjur,-6.5778,107.1812,Debris Flow (Aliran Bahan Rombakan),28.3,228.1,150,Tinggi,10
+LS-2024-0305,2023-03-15,Jawa Timur - Malang & Lumajang,-8.0819,113.1156,Debris Flow (Aliran Bahan Rombakan),51.5,300.7,705,Sangat Tinggi,7
+LS-2024-0306,2023-07-21,Jawa Barat - Sukabumi & Cianjur,-6.6226,107.161,Slide (Gelinciran),27.7,177.6,157,Sedang,0
+LS-2024-0307,2024-05-25,Sumatra - Sesar Semangko,3.7713,95.184,Slide (Gelinciran),58.8,117.8,644,Tinggi,2
+LS-2024-0308,2024-03-04,Jawa Tengah - Banjarnegara & Wonosobo,-7.4792,109.5764,Slide (Gelinciran),48.4,304.5,923,Sangat Tinggi,4
+LS-2024-0309,2023-11-15,Sumatra - Sesar Semangko,2.7584,95.8143,Slide (Gelinciran),51.3,345.5,2205,Sangat Tinggi,4
+LS-2024-0310,2024-10-27,Sumatra - Sesar Semangko,3.1421,96.2434,Debris Flow (Aliran Bahan Rombakan),27.1,205.3,569,Sedang,0
+LS-2024-0311,2023-11-21,Sumatra - Sesar Semangko,3.8047,95.8897,Slide (Gelinciran),40.2,284.2,1949,Sangat Tinggi,0
+LS-2024-0312,2025-07-27,Sumatra - Sesar Semangko,3.3464,95.4771,Rockfall (Guguran Batu),51.2,86.6,300,Sedang,0
+LS-2024-0313,2023-06-06,Jawa Barat - Sukabumi & Cianjur,-6.6351,106.9367,Rockfall (Guguran Batu),44.9,97.2,289,Sedang,0
+LS-2024-0314,2025-10-15,Sulawesi - Luwu & Toraja,-2.5529,120.1474,Slide (Gelinciran),37.8,166.2,3655,Sedang,0
+LS-2024-0315,2024-02-23,Jawa Tengah - Banjarnegara & Wonosobo,-7.4954,109.7815,Debris Flow (Aliran Bahan Rombakan),25.6,261.5,2648,Tinggi,0
+LS-2024-0316,2024-08-13,Jawa Tengah - Banjarnegara & Wonosobo,-7.3282,109.6235,Slide (Gelinciran),58.3,264.3,4669,Sangat Tinggi,10
+LS-2024-0317,2025-02-24,Jawa Barat - Sukabumi & Cianjur,-6.6338,107.274,Slide (Gelinciran),51.7,200.5,210,Tinggi,6
+LS-2024-0318,2025-02-20,Jawa Tengah - Banjarnegara & Wonosobo,-7.1597,109.8928,Slide (Gelinciran),45.3,65.6,1293,Sedang,0
+LS-2024-0319,2023-09-28,Jawa Tengah - Banjarnegara & Wonosobo,-7.3353,109.874,Slide (Gelinciran),33.2,70.5,2397,Rendah,0
+LS-2024-0320,2024-07-04,Jawa Tengah - Banjarnegara & Wonosobo,-7.229,109.5288,Slide (Gelinciran),59.2,285.5,2083,Sangat Tinggi,6
+LS-2024-0321,2023-08-18,Jawa Tengah - Banjarnegara & Wonosobo,-7.1859,109.7404,Debris Flow (Aliran Bahan Rombakan),57.4,324.4,117,Sangat Tinggi,9
+LS-2024-0322,2024-09-05,Sumatra - Sesar Semangko,2.3094,96.6434,Debris Flow (Aliran Bahan Rombakan),23.5,224.7,443,Sedang,2
+LS-2024-0323,2024-12-24,Jawa Barat - Sukabumi & Cianjur,-6.8382,107.3181,Slide (Gelinciran),44.6,340.6,1488,Sangat Tinggi,5
+LS-2024-0324,2025-04-03,Jawa Timur - Malang & Lumajang,-8.0811,112.5644,Creep (Rayapan Tanah),44.2,130.2,122,Sedang,0
+LS-2024-0325,2024-09-27,Jawa Barat - Sukabumi & Cianjur,-6.8845,107.2704,Creep (Rayapan Tanah),27.2,229.3,3115,Tinggi,9
+LS-2024-0326,2024-03-16,Sumatra - Sesar Semangko,2.4645,97.8342,Slide (Gelinciran),15.3,281.7,1572,Tinggi,11
+LS-2024-0327,2023-09-04,Sumatra - Sesar Semangko,2.0462,96.7488,Debris Flow (Aliran Bahan Rombakan),57.3,116.1,2040,Tinggi,5
+LS-2024-0328,2024-03-20,Sumatra - Sesar Semangko,3.4941,97.2285,Slide (Gelinciran),48.7,324.4,953,Sangat Tinggi,10
+LS-2024-0329,2023-11-25,Sumatra - Sesar Semangko,3.3152,97.9888,Debris Flow (Aliran Bahan Rombakan),45.2,260.3,442,Tinggi,4
+LS-2024-0330,2023-05-11,Jawa Timur - Malang & Lumajang,-8.1945,112.6739,Debris Flow (Aliran Bahan Rombakan),26.1,68.8,1021,Rendah,0
+LS-2024-0331,2025-10-18,Jawa Tengah - Banjarnegara & Wonosobo,-7.2621,109.6489,Debris Flow (Aliran Bahan Rombakan),51.2,296.9,4148,Sangat Tinggi,2
+LS-2024-0332,2025-08-19,Jawa Barat - Sukabumi & Cianjur,-6.8405,106.9774,Rockfall (Guguran Batu),49.7,178.2,446,Tinggi,6
+LS-2024-0333,2023-09-18,Sumatra - Sesar Semangko,4.5956,97.7458,Slide (Gelinciran),50.4,186.3,1592,Tinggi,11
+LS-2024-0334,2025-05-15,Jawa Barat - Sukabumi & Cianjur,-6.8504,107.1745,Slide (Gelinciran),17.9,297.4,618,Tinggi,8
+LS-2024-0335,2023-11-22,Sulawesi - Luwu & Toraja,-3.199,120.1518,Debris Flow (Aliran Bahan Rombakan),16.3,113.0,594,Rendah,8
+LS-2024-0336,2023-05-17,Sumatra - Sesar Semangko,4.7721,95.3356,Rockfall (Guguran Batu),23.4,249.3,3301,Tinggi,3
+LS-2024-0337,2025-08-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.4558,109.6157,Rockfall (Guguran Batu),39.1,157.1,754,Sedang,0
+LS-2024-0338,2024-10-07,Sulawesi - Luwu & Toraja,-3.1733,120.0481,Slide (Gelinciran),25.4,145.6,3608,Sedang,0
+LS-2024-0339,2023-12-23,Sumatra - Sesar Semangko,4.5765,97.0308,Slide (Gelinciran),35.8,174.4,120,Sedang,0
+LS-2024-0340,2025-01-23,Sulawesi - Luwu & Toraja,-2.7781,120.0694,Debris Flow (Aliran Bahan Rombakan),15.1,265.6,2077,Tinggi,5
+LS-2024-0341,2024-03-14,Sumatra - Sesar Semangko,3.0357,96.2426,Slide (Gelinciran),20.5,240.4,1408,Sedang,0
+LS-2024-0342,2024-03-22,Jawa Tengah - Banjarnegara & Wonosobo,-7.4019,109.5231,Debris Flow (Aliran Bahan Rombakan),24.9,338.0,1536,Tinggi,0
+LS-2024-0343,2025-10-01,Sumatra - Sesar Semangko,3.6227,97.0893,Debris Flow (Aliran Bahan Rombakan),24.2,148.3,1286,Sedang,0
+LS-2024-0344,2024-01-07,Sulawesi - Luwu & Toraja,-3.3828,120.036,Rockfall (Guguran Batu),20.1,279.4,1803,Tinggi,6
+LS-2024-0345,2025-09-27,Sulawesi - Luwu & Toraja,-2.7235,120.2279,Debris Flow (Aliran Bahan Rombakan),36.3,218.2,1585,Tinggi,11
+LS-2024-0346,2023-09-22,Sumatra - Sesar Semangko,4.1939,97.0918,Rockfall (Guguran Batu),52.9,195.5,708,Tinggi,2
+LS-2024-0347,2025-11-21,Jawa Tengah - Banjarnegara & Wonosobo,-7.158,109.853,Slide (Gelinciran),33.4,244.3,123,Tinggi,1
+LS-2024-0348,2025-12-20,Jawa Timur - Malang & Lumajang,-8.1273,113.0202,Rockfall (Guguran Batu),44.2,72.2,806,Sedang,0
+LS-2024-0349,2025-03-22,Sulawesi - Luwu & Toraja,-2.9409,120.0248,Slide (Gelinciran),47.8,232.5,1939,Tinggi,11
+LS-2024-0350,2025-11-02,Jawa Timur - Malang & Lumajang,-8.1819,112.745,Rockfall (Guguran Batu),44.8,195.2,107,Tinggi,7
+LS-2024-0351,2024-05-16,Sumatra - Sesar Semangko,3.743,96.2782,Slide (Gelinciran),48.8,290.9,1194,Sangat Tinggi,4
+LS-2024-0352,2025-12-09,Jawa Tengah - Banjarnegara & Wonosobo,-7.2518,109.7969,Slide (Gelinciran),30.6,167.2,359,Sedang,0
+LS-2024-0353,2023-05-22,Sulawesi - Luwu & Toraja,-2.8459,120.4224,Debris Flow (Aliran Bahan Rombakan),49.1,142.1,904,Tinggi,7
+LS-2024-0354,2024-12-10,Jawa Tengah - Banjarnegara & Wonosobo,-7.4259,109.7399,Debris Flow (Aliran Bahan Rombakan),37.8,106.4,220,Sedang,0
+LS-2024-0355,2023-06-25,Jawa Barat - Sukabumi & Cianjur,-6.8845,107.4709,Slide (Gelinciran),26.9,331.7,1617,Tinggi,11
+LS-2024-0356,2025-06-10,Sulawesi - Luwu & Toraja,-2.8054,119.9531,Rockfall (Guguran Batu),44.8,294.5,2357,Sangat Tinggi,5
+LS-2024-0357,2023-12-08,Jawa Timur - Malang & Lumajang,-7.8905,113.0235,Rockfall (Guguran Batu),16.4,127.9,151,Rendah,0
+LS-2024-0358,2024-09-24,Sulawesi - Luwu & Toraja,-2.87,120.4007,Slide (Gelinciran),24.0,204.3,2099,Sedang,0
+LS-2024-0359,2024-06-16,Jawa Barat - Sukabumi & Cianjur,-6.6086,106.9743,Rockfall (Guguran Batu),52.2,320.9,4167,Sangat Tinggi,9
+LS-2024-0360,2025-01-03,Jawa Tengah - Banjarnegara & Wonosobo,-7.1009,109.5966,Debris Flow (Aliran Bahan Rombakan),16.0,158.1,2396,Sedang,0
+LS-2024-0361,2024-08-18,Sulawesi - Luwu & Toraja,-3.268,119.8101,Debris Flow (Aliran Bahan Rombakan),46.8,142.7,313,Tinggi,9
+LS-2024-0362,2023-10-19,Jawa Tengah - Banjarnegara & Wonosobo,-7.1246,109.6659,Slide (Gelinciran),41.1,347.2,2220,Sangat Tinggi,9
+LS-2024-0363,2025-07-24,Sulawesi - Luwu & Toraja,-3.1108,119.9602,Debris Flow (Aliran Bahan Rombakan),32.1,161.4,1545,Sedang,0
+LS-2024-0364,2023-10-20,Sulawesi - Luwu & Toraja,-2.5189,120.2547,Rockfall (Guguran Batu),57.3,201.2,4569,Tinggi,10
+LS-2024-0365,2023-07-09,Jawa Barat - Sukabumi & Cianjur,-7.123,107.4475,Debris Flow (Aliran Bahan Rombakan),44.0,342.3,208,Sangat Tinggi,0
+LS-2024-0366,2024-06-18,Jawa Timur - Malang & Lumajang,-8.0345,112.6429,Slide (Gelinciran),45.0,301.2,379,Sangat Tinggi,0
+LS-2024-0367,2024-04-06,Jawa Tengah - Banjarnegara & Wonosobo,-7.2201,109.8353,Slide (Gelinciran),39.1,196.5,870,Tinggi,4
+LS-2024-0368,2024-11-08,Sumatra - Sesar Semangko,2.831,97.7639,Slide (Gelinciran),19.3,228.2,1919,Sedang,0
+LS-2024-0369,2024-11-07,Sumatra - Sesar Semangko,3.8205,97.6429,Slide (Gelinciran),37.6,342.9,1825,Sangat Tinggi,6
+LS-2024-0370,2024-01-15,Sumatra - Sesar Semangko,4.9917,95.0901,Rockfall (Guguran Batu),42.1,235.7,4339,Tinggi,3
+LS-2024-0371,2023-01-10,Jawa Timur - Malang & Lumajang,-8.1732,113.1827,Slide (Gelinciran),57.2,75.5,830,Sedang,0
+LS-2024-0372,2024-04-15,Jawa Barat - Sukabumi & Cianjur,-6.8675,106.8387,Creep (Rayapan Tanah),21.6,341.9,2236,Tinggi,7
+LS-2024-0373,2024-08-24,Jawa Timur - Malang & Lumajang,-8.0887,113.0588,Debris Flow (Aliran Bahan Rombakan),20.8,126.9,758,Sedang,4
+LS-2024-0374,2024-08-24,Jawa Barat - Sukabumi & Cianjur,-6.6337,106.9028,Debris Flow (Aliran Bahan Rombakan),18.7,195.4,640,Sedang,0
+LS-2024-0375,2024-08-03,Sulawesi - Luwu & Toraja,-3.0215,120.3464,Slide (Gelinciran),15.1,102.3,3224,Rendah,0
+LS-2024-0376,2024-09-22,Jawa Barat - Sukabumi & Cianjur,-6.6243,106.8399,Rockfall (Guguran Batu),47.6,222.3,1750,Tinggi,9
+LS-2024-0377,2024-11-21,Sulawesi - Luwu & Toraja,-2.5105,120.4227,Debris Flow (Aliran Bahan Rombakan),37.0,272.5,1117,Tinggi,2
+LS-2024-0378,2024-07-07,Jawa Timur - Malang & Lumajang,-8.0554,113.1019,Slide (Gelinciran),35.4,278.7,302,Tinggi,0
+LS-2024-0379,2023-12-26,Sumatra - Sesar Semangko,2.5265,96.7032,Creep (Rayapan Tanah),54.1,170.8,5371,Tinggi,10
+LS-2024-0380,2025-06-02,Jawa Timur - Malang & Lumajang,-8.1339,113.098,Debris Flow (Aliran Bahan Rombakan),55.6,231.2,1389,Sangat Tinggi,8
+LS-2024-0381,2023-11-05,Jawa Tengah - Banjarnegara & Wonosobo,-7.1244,109.8576,Slide (Gelinciran),22.9,251.8,473,Tinggi,9
+LS-2024-0382,2023-10-18,Jawa Timur - Malang & Lumajang,-8.1001,112.6843,Slide (Gelinciran),17.4,163.0,496,Sedang,0
+LS-2024-0383,2024-11-13,Sulawesi - Luwu & Toraja,-3.4062,120.1403,Rockfall (Guguran Batu),57.5,233.0,3975,Sangat Tinggi,6
+LS-2024-0384,2025-02-22,Sulawesi - Luwu & Toraja,-3.0337,120.3324,Rockfall (Guguran Batu),34.3,229.1,11685,Tinggi,1
+LS-2024-0385,2025-01-08,Sulawesi - Luwu & Toraja,-2.8256,120.334,Rockfall (Guguran Batu),25.2,251.0,1047,Tinggi,4
+LS-2024-0386,2023-06-15,Jawa Timur - Malang & Lumajang,-8.0886,113.0971,Slide (Gelinciran),22.2,57.5,994,Rendah,0
+LS-2024-0387,2025-12-01,Sulawesi - Luwu & Toraja,-3.3884,120.2258,Debris Flow (Aliran Bahan Rombakan),42.5,110.0,185,Sedang,0
+LS-2024-0388,2023-08-23,Sumatra - Sesar Semangko,2.7108,97.0322,Debris Flow (Aliran Bahan Rombakan),56.7,159.8,674,Tinggi,2
+LS-2024-0389,2023-05-19,Sumatra - Sesar Semangko,2.8484,96.2557,Debris Flow (Aliran Bahan Rombakan),28.2,62.4,1620,Rendah,0
+LS-2024-0390,2025-04-04,Jawa Timur - Malang & Lumajang,-7.8608,113.163,Debris Flow (Aliran Bahan Rombakan),30.8,323.9,722,Sangat Tinggi,9
+LS-2024-0391,2024-03-26,Sumatra - Sesar Semangko,4.1187,96.8681,Rockfall (Guguran Batu),27.5,92.7,663,Rendah,7
+LS-2024-0392,2024-04-06,Sumatra - Sesar Semangko,4.8065,95.5572,Debris Flow (Aliran Bahan Rombakan),17.8,77.7,366,Rendah,0
+LS-2024-0393,2024-08-22,Sulawesi - Luwu & Toraja,-3.0533,120.1511,Debris Flow (Aliran Bahan Rombakan),44.8,275.4,2202,Sangat Tinggi,2
+LS-2024-0394,2023-03-12,Sulawesi - Luwu & Toraja,-3.3852,120.4591,Rockfall (Guguran Batu),53.9,124.8,1994,Tinggi,1
+LS-2024-0395,2025-01-22,Jawa Timur - Malang & Lumajang,-7.897,112.7066,Slide (Gelinciran),23.6,105.4,728,Rendah,0
+LS-2024-0396,2024-10-26,Sulawesi - Luwu & Toraja,-2.7651,120.172,Debris Flow (Aliran Bahan Rombakan),21.2,270.2,1600,Tinggi,9
+LS-2024-0397,2025-07-04,Sulawesi - Luwu & Toraja,-3.1449,119.8317,Debris Flow (Aliran Bahan Rombakan),41.2,81.8,3195,Sedang,0
+LS-2024-0398,2025-11-05,Jawa Barat - Sukabumi & Cianjur,-6.8076,107.4599,Slide (Gelinciran),19.4,72.7,773,Rendah,0
+LS-2024-0399,2023-08-28,Sulawesi - Luwu & Toraja,-3.4328,120.2164,Rockfall (Guguran Batu),42.8,309.0,478,Sangat Tinggi,10
+LS-2024-0400,2024-09-07,Sulawesi - Luwu & Toraja,-3.2538,120.0965,Slide (Gelinciran),58.6,179.4,740,Tinggi,3
